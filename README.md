@@ -30,7 +30,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <center>
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/kopasxa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kopasxa&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopasxa&theme=dark&layout=compact&langs_count=8&hide=php"/>
 </a>
